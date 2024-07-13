@@ -1,1 +1,1 @@
-# artificial-intelligence-project
+# Heart disease prediction-project
